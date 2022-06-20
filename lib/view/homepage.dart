@@ -3,6 +3,7 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:rateus/view/rate_scr.dart';
 
 
+// ignore: camel_case_types
 class homepage extends StatelessWidget {
   const homepage({ Key? key }) : super(key: key);
 
